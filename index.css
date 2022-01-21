@@ -17,8 +17,10 @@
 body {
   margin-left: 8px;
   padding: 20px;
-	background: #235784; 
-  
+	background-image: url(pexels-pixabay-325876\ \(1\).jpg);
+    background-position: left;
+    background-size: 100%;
+
 
 }
 html{font-size: 1em;}
@@ -59,7 +61,7 @@ h2 {
   color: white;
   background-color: #40a8c4;
   width: 14vw;
-  margin-left: 27%;
+  margin-left: 37%;
 
   height: 30px;
   font-family: sans-serif;
@@ -74,7 +76,7 @@ border-radius: 20px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   
 }
-.tofes { width: 38vw; padding: 0.4em;}
+.tofes { width: 52vw; padding: 0.4em;}
 
 input[type=text], input[type=date], input[type=mail], input[type=tel], input[type=password], select{
     width: 38%;
