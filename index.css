@@ -63,8 +63,8 @@ h2 {
 .kaftor {
   color: white;
   background-color: #40a8c4;
-  width: 20vw;
-  margin-left: 33%;
+  width: 24vw;
+  margin-left: 31%;
 
   height: 30px;
   font-family: sans-serif;
@@ -79,7 +79,7 @@ border-radius: 20px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   
 }
-.tofes { width: 52vw; padding: 0.4em;}
+.tofes { width: 60vw; padding: 0.4em;}
 
 input[type=text], input[type=date], input[type=mail], input[type=tel], input[type=password], select{
     width: 38%;
