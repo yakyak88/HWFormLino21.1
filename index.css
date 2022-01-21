@@ -82,5 +82,8 @@ border-radius: 20px;
 .tofes { width: 60vw; padding: 0.4em;}
 
 input[type=text], input[type=date], input[type=mail], input[type=tel], input[type=password], select{
-    width: 38%;
+    width: 39%;
+}
+input[type=email] {
+    width: 50%;
 }
