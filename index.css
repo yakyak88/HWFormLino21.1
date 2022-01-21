@@ -42,8 +42,9 @@ h2 {
 #suits {
   width: 38vw;
   float: right;
-  margin-top: 40px;
-  margin-right: 60px;
+  margin-block-start: 3vh  ;
+  margin-inline-end: 2vw;
+
 }
 #lino {
   color:red;
