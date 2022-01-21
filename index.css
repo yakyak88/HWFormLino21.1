@@ -18,9 +18,11 @@ body {
   margin-left: 8px;
   padding: 20px;
 	background-image: url(pexels-pixabay-325876\ \(1\).jpg);
-    background-position: left;
+    background-position: center;
     background-size: 100%;
-
+    background-repeat: no-repeat;
+    background-color: #235784;
+    padding: 0%;
 
 }
 html{font-size: 1em;}
