@@ -83,7 +83,9 @@ border-radius: 20px;
 
 input[type=text], input[type=date], input[type=mail], input[type=tel], input[type=password], select{
     width: 39%;
+    
 }
 input[type=email] {
     width: 50%;
 }
+input:hover {background-color: red;}
